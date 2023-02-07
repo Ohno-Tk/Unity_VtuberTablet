@@ -26,7 +26,7 @@
 - Users(ユーザー向け)
   - [Screenshot](#screenshot)
   - [Features(セールスポイントなど)](#features)
-  - [Getting Started (入門ガイド)](https://github.com/Ohno-Tk/OBS_Counter/wiki/Users_Getting-Started-(%E5%85%A5%E9%96%80%E3%82%AC%E3%82%A4%E3%83%89))
+  - [Getting Started (入門ガイド)](https://github.com/Ohno-Tk/Unity_VtuberTablet/wiki/Users_Getting-Started-(%E5%85%A5%E9%96%80%E3%82%AC%E3%82%A4%E3%83%89))
   - [Release Notes (リリースノート)](#release-notes)
 - Developer(開発者向け)
   - [Architecture(設計資料)](#architecture)
@@ -103,11 +103,11 @@ Pull Requestはいつでも歓迎しています。
 1. マージする。
 
 ### Issue
-- 質問 => [こちらから質問できます](https://github.com/Ohno-Tk/OBS_Counter/issues/new?template=question.md)
-- エラーや問題の報告 => [こちらからバグ報告できます。](https://github.com/Ohno-Tk/OBS_Counter/issues/new?template=bug_report.md)
-- 提案 => [こちらから提案できます。](https://github.com/Ohno-Tk/OBS_Counter/issues/new?template=feature_request.md)
+- 質問 => [こちらから質問できます](https://github.com/Ohno-Tk/Unity_VtuberTablet/issues/new?template=question.md)
+- エラーや問題の報告 => [こちらからバグ報告できます。](https://github.com/Ohno-Tk/Unity_VtuberTablet/issues/new?template=bug_report.md)
+- 提案 => [こちらから提案できます。](https://github.com/Ohno-Tk/Unity_VtuberTablet/issues/new?template=feature_request.md)
 
-[その他のIssue](https://github.com/Ohno-Tk/OBS_Counter/issues/new?template=other.md)も歓迎しています。
+[その他のIssue](https://github.com/Ohno-Tk/Unity_VtuberTablet/issues/new?template=other.md)も歓迎しています。
 
 ## License
 Released 2023 by Ohno-Tk
