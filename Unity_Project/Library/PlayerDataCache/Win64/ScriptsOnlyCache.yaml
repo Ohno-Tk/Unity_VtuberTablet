@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - MousePoint
+    - ScreenSize
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -43,17 +44,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1570}
+      Script: {instanceID: 1566}
     - Class: 114
-      Script: {instanceID: 2634}
+      Script: {instanceID: 2630}
     - Class: 114
-      Script: {instanceID: 2860}
+      Script: {instanceID: 2856}
     - Class: 114
-      Script: {instanceID: 3212}
+      Script: {instanceID: 3208}
     - Class: 114
-      Script: {instanceID: 5898}
+      Script: {instanceID: 5894}
     - Class: 114
-      Script: {instanceID: 6398}
+      Script: {instanceID: 6394}
+    - Class: 114
+      Script: {instanceID: 22928}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -849,6 +852,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 02c979ff805d3e9699e8e3e2d073e9a0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScreenSize
   platform: 19
   scenePathNames:
   - Assets/Program/Scenes/SampleScene.unity
