@@ -311,8 +311,9 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll"
-"Assets/Program/Scenes/MousePoint.cs"
-"Assets/Program/Scenes/ScreenSize.cs"
+"Assets/Program/MousePoint.cs"
+"Assets/Program/OutOfScreen.cs"
+"Assets/Program/ScreenSize.cs"
 -langversion:9.0
 
 /deterministic

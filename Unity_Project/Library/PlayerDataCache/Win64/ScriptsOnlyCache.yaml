@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - MousePoint
+    - OutOfScreen
     - ScreenSize
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -22,7 +23,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
   methodsToPreserve: []
   sceneClasses:
-    Assets/Program/Scenes/SampleScene.unity:
+    Assets/Program/SampleScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -46,17 +47,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1566}
     - Class: 114
-      Script: {instanceID: 2630}
+      Script: {instanceID: 1968}
     - Class: 114
-      Script: {instanceID: 2856}
+      Script: {instanceID: 2632}
     - Class: 114
-      Script: {instanceID: 3208}
+      Script: {instanceID: 2858}
     - Class: 114
-      Script: {instanceID: 5894}
+      Script: {instanceID: 3210}
     - Class: 114
-      Script: {instanceID: 6394}
+      Script: {instanceID: 5896}
     - Class: 114
-      Script: {instanceID: 22928}
+      Script: {instanceID: 6396}
+    - Class: 114
+      Script: {instanceID: 22988}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -126,6 +129,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 02c979ff805d3e9699e8e3e2d073e9a0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScreenSize
   - hash:
       serializedVersion: 2
       Hash: 751e5bae2a317288c2ab58d66687092b
@@ -854,11 +863,11 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 02c979ff805d3e9699e8e3e2d073e9a0
+      Hash: 260103515872e64b8642ebef344e5b2e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: ScreenSize
+    className: OutOfScreen
   platform: 19
   scenePathNames:
-  - Assets/Program/Scenes/SampleScene.unity
+  - Assets/Program/SampleScene.unity
   playerPath: "C:/Users/Ohno.Takuya/Downloads/\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC/Unity_Project.exe"
