@@ -17,7 +17,7 @@ public class MousePoint : MonoBehaviour
     void Update()
     {
         Vector3 mousePos = Input.mousePosition;
-        Debug.Log("マウス X座標:"+mousePos.x+"    マウス Y座標:"+mousePos.y);
+        //Debug.Log("マウス X座標:"+mousePos.x+"    マウス Y座標:"+mousePos.y);
 
         HandObject.transform.position = mousePos;
     }
